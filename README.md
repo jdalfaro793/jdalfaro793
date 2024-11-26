@@ -30,6 +30,10 @@ I'm a Full-Stack Developer with expertise in **Java Spring Boot**, **Angular 9**
 ### Other Tools
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-6E7B8B?style=for-the-badge&logo=soapui&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D4202B?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+
 
 ## Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josuedario)  
