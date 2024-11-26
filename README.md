@@ -41,5 +41,3 @@ I'm a Full-Stack Developer with expertise in **Java Spring Boot**, **Angular 9**
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3885728793)
 
 
-## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdalfaro793&show_icons=true&theme=radical)
