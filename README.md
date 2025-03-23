@@ -36,6 +36,7 @@ I'm a Full-Stack Developer with expertise in **Java Spring Boot**, **Angular 9**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SoapUI](https://img.shields.io/badge/SoapUI-6E7B8B?style=for-the-badge&logo=soapui&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D4202B?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![SonarQ](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ## 📊 My GitHub Stats
 <div style="display: flex; justify-content: space-between; align-items: center;">
