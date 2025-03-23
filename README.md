@@ -42,7 +42,6 @@ I'm a Full-Stack Developer with expertise in **Java Spring Boot**, **Angular 9**
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=jdalfaro793&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="100px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdalfaro793&layout=compact&theme=radical" alt="Lenguajes más usados" height="100px">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jdalfaro793&theme=radical" alt="Gráfico de actividad" height="100px">
 </div>
 
 ## Connect with Me
